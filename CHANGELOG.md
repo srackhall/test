@@ -34,7 +34,6 @@ bbbb
 
 * **aaa.test:** 在第二行代码处发现了一个bug, 已修复 ([f6b2c7d](https://github.com/srackhall/test/commit/f6b2c7d5d09bfe63f230e322e0d35dd89bcee011))
 * **test.aaa:** 在第2行代码处, 发现了第二个bug, 已修复 ([68c3d5a](https://github.com/srackhall/test/commit/68c3d5a116c5f8de4ee9d7b83bbaf843e176555d))
-* **test.:** 在第2行代码处, 发现了第二个bug, 已修复 ([68c3d5a](https://github.com/srackhall/test/commit/68c3d5a116c5f8de4ee9d7b83bbaf843e176555d))
 
 
 ### Features
